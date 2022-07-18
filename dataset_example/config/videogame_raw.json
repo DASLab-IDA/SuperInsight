@@ -1,0 +1,17 @@
+{
+    "platform": "Categorical",
+    "year_of_release": "Temporal",
+    "genre": "Categorical",
+    "publisher": "Categorical",
+    "NA_sales": "Numerical",
+    "EU_sales": "Numerical",
+    "JP_sales": "Numerical",
+    "other_sales": "Numerical",
+    "global_sales": "Numerical",
+    "critic_score": "Numerical",
+    "critic_count": "Numerical",
+    "user_ccore": "Numerical",
+    "user_count": "Numerical",
+    "developer": "Categorical",
+    "rating": "Categorical"
+}

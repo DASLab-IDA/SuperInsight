@@ -1,0 +1,7 @@
+{
+    "City": "Categorical",
+    "Gender": "Categorical",
+    "Age": "Numerical",
+    "Income": "Numerical",
+    "Illness": "Categorical"
+}

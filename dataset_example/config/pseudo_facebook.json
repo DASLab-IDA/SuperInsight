@@ -1,0 +1,13 @@
+{
+    "dob_year": "Temporal",
+    "gender": "Categorical",
+    "tenure": "Numerical",
+    "friend_count": "Numerical",
+    "friendships_initiated": "Numerical",
+    "likes": "Numerical",
+    "likes_received": "Numerical",
+    "mobile_likes": "Numerical",
+    "mobile_likes_received": "Numerical",
+    "www_likes": "Numerical",
+    "www_likes_received": "Numerical"
+}

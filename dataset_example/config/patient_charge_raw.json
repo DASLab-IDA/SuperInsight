@@ -1,0 +1,10 @@
+{
+    "age": "Categorical",
+    "sex": "Categorical",
+    "children": "Categorical",
+    "smoker": "Categorical",
+    "region": "Categorical",
+    "charges": "Numerical",
+    "age_group": "Categorical",
+    "bmi_group": "Categorical"
+}

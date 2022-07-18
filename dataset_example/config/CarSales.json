@@ -1,0 +1,7 @@
+{
+    "Year": "Temporal",
+    "Brand": "Categorical",
+    "Category": "Categorical",
+    "Model": "Categorical",
+    "Sales": "Numerical"
+}

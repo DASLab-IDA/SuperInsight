@@ -1,0 +1,15 @@
+{
+    "ship_mode": "Categorical",
+    "segment": "Categorical",
+    "country": "Categorical",
+    "city": "Categorical",
+    "state": "Categorical",
+    "postal_code": "Categorical",
+    "region": "Categorical",
+    "category": "Categorical",
+    "sub_category": "Categorical",
+    "sales": "Numerical",
+    "quantity": "Numerical",
+    "discount": "Numerical",
+    "profit": "Numerical"
+}

@@ -1,0 +1,11 @@
+{
+    "category": "Categorical",
+    "rating": "Numerical",
+    "reviews": "Numerical",
+    "size": "Numerical",
+    "installs": "Numerical",
+    "type": "Categorical",
+    "price": "Numerical",
+    "content_rating": "Categorical",
+    "genres": "Categorical"
+}

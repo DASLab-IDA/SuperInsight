@@ -1,0 +1,10 @@
+{
+    "is_paid": "Categorical",
+    "price": "Numerical",
+    "num_subscribers": "Numerical",
+    "num_reviews": "Numerical",
+    "num_lectures": "Numerical",
+    "level": "Categorical",
+    "content_duration": "Numerical",
+    "subject": "Categorical"
+}

@@ -1,0 +1,9 @@
+{
+    "State": "Categorical",
+    "Year": "Temporal",
+    "Type_code": "Categorical",
+    "Type": "Categorical",
+    "Gender": "Categorical",
+    "Age_group": "Categorical",
+    "Total": "Numerical"
+}
