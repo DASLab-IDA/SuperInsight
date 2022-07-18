@@ -1,0 +1,27 @@
+extend_list:
+    - subspace
+    - measure
+    - breakdown
+
+aggregate_function:
+    - SUM
+    - MAX
+    - AVG
+    - MIN
+
+
+pattern_dict:
+  Categorical:
+      - outstanding_1
+      - outstanding_last
+      - attribution
+      - outlier
+      - evenness
+  Temporal:
+      - outstanding_1
+      - outstanding_last
+      - attribution
+      - change_point
+      - trend
+      - outlier
+      - evenness
